@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1684426418 source:d:\code\stacklinked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"StackHeader.h"
+
+1684425275 d:\code\stacklinked\stackheader.h
+	<stdlib.h>
+
+1684426373 source:d:\code\stacklinked\stacklinkedimplementation.c
+	"StackHeader.h"
+
