@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1683821538 source:d:\code\stackarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"StackHeader.h"
+
+1684244501 d:\code\stackarray\stackheader.h
+
+1683820723 source:d:\code\stackarray\stackarrayimplement.c
+	"StackHeader.h"
+
