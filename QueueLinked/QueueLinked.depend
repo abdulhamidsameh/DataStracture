@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1685940144 source:d:\code\queuelinked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"QueueHeader.h"
+
+1685939071 d:\code\queuelinked\queueheader.h
+	<stdlib.h>
+
+1685939989 source:d:\code\queuelinked\queuelinkedimplementation.c
+	"QueueHeader.h"
+
