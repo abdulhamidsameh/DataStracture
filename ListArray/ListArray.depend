@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1689566129 source:d:\code\listarray\listarrayimplement.c
+	"ListHeader.h"
+
+1689566256 d:\code\listarray\listheader.h
+
+1689566992 source:d:\code\listarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListHeader.h"
+
