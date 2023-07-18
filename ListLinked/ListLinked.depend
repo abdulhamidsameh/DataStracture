@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1689642453 source:d:\code\listlinked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListHeader.h"
+
+1689643938 d:\code\listlinked\listheader.h
+	<stdio.h>
+	<stdlib.h>
+
+1689643890 source:d:\code\listlinked\listlinkedimplementation.c
+	"ListHeader.h"
+
+1689643890 source:d:\datastracture\listlinked\listlinkedimplementation.c
+	"ListHeader.h"
+
+1689643938 d:\datastracture\listlinked\listheader.h
+	<stdio.h>
+	<stdlib.h>
+
+1689642453 source:d:\datastracture\listlinked\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ListHeader.h"
+
